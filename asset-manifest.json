@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Order_Plants/static/css/main.796b54b5.css",
+    "main.css": "/Order_Plants/static/css/main.9be42aaf.css",
     "main.js": "/Order_Plants/static/js/main.1437d964.js",
     "index.html": "/Order_Plants/index.html",
-    "main.796b54b5.css.map": "/Order_Plants/static/css/main.796b54b5.css.map",
+    "main.9be42aaf.css.map": "/Order_Plants/static/css/main.9be42aaf.css.map",
     "main.1437d964.js.map": "/Order_Plants/static/js/main.1437d964.js.map"
   },
   "entrypoints": [
-    "static/css/main.796b54b5.css",
+    "static/css/main.9be42aaf.css",
     "static/js/main.1437d964.js"
   ]
 }
